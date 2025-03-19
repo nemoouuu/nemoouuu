@@ -6,6 +6,8 @@ I'm Filbert Owen,  Lua Developer Not a Content Creator.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=1000&pause=1005&color=F7F7F7&width=435&lines=Hello%2C+Im+Filbert+Owen!;LuaU+Developer;14+y.o+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
 
+![Views](https://komarev.com/ghpvc/?username=fskhri&color=green)
+
 ## **About Me**
 
 - 🧑‍💻 Passionate about coding and software development
