@@ -4,8 +4,6 @@ I'm Filbert Owen,  a basketball player not a clown.
 
 ![Discord Presence](https://discord.c99.nl/widget/theme-4/987286346873856000.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=1000&pause=1005&color=F7F7F7&width=435&lines=Hello%2C+Im+Filbert+Owen!;LuaU+Developer;14+y.o+Developer;Nice+to+meet+You!)](https://git.io/typing-svg)
-
 ![Views](https://komarev.com/ghpvc/?username=fskhri&color=green)
 
 ## **About Me**
@@ -13,13 +11,3 @@ I'm Filbert Owen,  a basketball player not a clown.
 - 🏀 Passionate about basketball
 - 🎯 Focused on making it to the NBA
 - 🌱 Always eager to learn and grow
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=1000&pause=1001&color=F7F7F7&width=435&lines=My+Experience;Developer;UI+Developer;Feature+Developer)](https://git.io/typing-svg)
-
-
-
-
-
-
-<br />
-
